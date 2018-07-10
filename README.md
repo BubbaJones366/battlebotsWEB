@@ -1,2 +1,6 @@
-# battlebotsWEB
-Hi. Check out our website at www.bb2018.tk
+# Battle Bots 2018
+> Which bot will be the true winner?
+
+## The challange:
+
+5 bots, 4 matches, 1 winner.
