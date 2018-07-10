@@ -1,5 +1,5 @@
 # Battle Bots 2018
-## Which bot will be the true bob?
+## Which bot will be the true champion?
 
 ## The challange:
 
